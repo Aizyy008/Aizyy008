@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aizyy008
+- 👋 Hi, I’m Aizan Ahmed
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on exciting Android development projects to expand my skills and knowledge while contributing to innovative software solutions.
