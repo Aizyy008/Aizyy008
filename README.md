@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **COWSYNC**
 
-- 👯 I’m looking to collaborate on **on exciting Android development projects to expand my skills and knowledge while contributing to innovative software solutions.**
+- 👯 I’m looking to collaborate on **exciting Android development projects to expand my skills and knowledge while contributing to innovative software solutions.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aizyy008?tab=repositories](https://github.com/Aizyy008?tab=repositories)
 
