@@ -44,6 +44,11 @@ timeline
          : COWSYNC Backend Lead
          : AI-driven monitoring
          : Heroku deployment
+    
+    2025 : Django Developer
+         : The Semantics
+         : Advanced backend solutions
+         : Enterprise-grade development
 ```
 
 </div>
@@ -88,8 +93,8 @@ timeline
 ```yaml
 name: Aizan Ahmed
 role: Software Engineer | Django Developer | Flutter Expert
-location: Lahore, Punjab, Pakistan
-company: The Semantics
+location: Daska, Pakistan
+current_company: The Semantics
 experience: Full-stack development with scalable applications
 specialization: Clean coding, API optimization, security
 methodology: Agile environments & collaborative development
