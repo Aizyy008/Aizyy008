@@ -221,7 +221,14 @@ graph TD
 
 *"The best way to predict the future is to create it."*
 
-![Snake animation](https://github.com/aizyy008/aizyy008/blob/output/github-contribution-grid-snake.svg)
+### 📈 **Contribution Graph**
+
+[![Aizan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aizyy008&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🎯 **Weekly Development Breakdown**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
