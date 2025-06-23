@@ -1,67 +1,145 @@
-<h1 align="center">Hi 👋, I'm Aizan Ahmed</h1>
-<h3 align="center">A passionate developer working with Flutter for frontends and Django for powerful backends</h3>
+<div align="center">
+  
+# 👋 Hello, I'm Aizan Ahmed
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aizyy008&label=Profile%20views&color=0e75b6&style=flat" alt="aizyy008" />
-</p>
+### 🚀 Full-Stack Developer | Flutter Enthusiast | Django Expert
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=aizyy008">
-    <img src="https://github-profile-trophy.vercel.app/?username=aizyy008&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+beautiful+mobile+experiences;Crafting+powerful+backend+solutions;Always+learning%2C+always+growing" alt="Typing SVG" />
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=aizyy008&label=Profile%20Views&color=58A6FF&style=for-the-badge)](https://github.com/aizyy008)
 
-- 🔭 Currently working as a **Django Developer**
-- 👨‍💻 Explore my projects at: [github.com/Aizyy008?tab=repositories](https://github.com/Aizyy008?tab=repositories)
-- 📫 Reach me at: **malikaizan198@gmail.com**
-- 🤝 Open to collaboration on **Flutter/Django-based projects**
+</div>
 
 ---
 
-### 🌐 Connect with me
+## 🎯 About Me
 
-<p align="left">
-  <a href="https://fb.com/aizan ahmed" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/bugz__x" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-</p>
+```yaml
+name: Aizan Ahmed
+role: Django Developer
+location: Passionate about creating seamless user experiences
+currently_learning: Advanced Flutter animations & Django optimization
+collaboration: Open to Flutter/Django projects
+contact: malikaizan198@gmail.com
+```
 
----
+<div align="center">
 
-### 🛠️ Languages and Tools
+### 🏆 GitHub Achievements
 
-<p align="left">
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=aizyy008&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizyy008&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aizyy008&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aizyy008&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+### 📱 Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Server
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🤖 AI & Testing
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 🎨 Design & Hardware
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aizyy008&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizyy008&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aizyy008&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎯 Current Goals] --> B[Flutter Advanced Animations]
+    A --> C[Django Performance Optimization]  
+    A --> D[Mobile App Architecture]
+    A --> E[Backend API Design]
+    
+    B --> F[🚀 Building Better UX]
+    C --> G[⚡ Faster Response Times]
+    D --> H[📱 Scalable Mobile Solutions]
+    E --> I[🔗 Robust API Systems]
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikaizan198@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/aizan%20ahmed)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bugz__x)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aizyy008)
+
+### 💡 Open to collaborating on:
+- 📱 **Flutter mobile applications**
+- 🌐 **Django web platforms** 
+- 🔗 **Full-stack projects**
+- 🤖 **AI-powered solutions**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Quote
+
+*"The best way to predict the future is to create it."*
+
+![Snake animation](https://github.com/aizyy008/aizyy008/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+**⭐ From [Aizan Ahmed](https://github.com/aizyy008) with ❤️**
+
+*Last updated: 2025*
+
+</div>
