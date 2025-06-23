@@ -12,15 +12,91 @@
 
 ---
 
+## 🏆 Key Achievements & Recognition
+
+<div align="center">
+
+| 🥈 **2nd Position** | 🥇 **1st Position** | 📝 **Merit List** |
+|:---:|:---:|:---:|
+| **Software Engineering Project** | **ICATS Science Contest** | **DAWN Spelling Bee** |
+| VisioSpark 2024 Competition | Institution Level 2017 | Provincial Level |
+| *Among 25 projects* | *Science Excellence* | *Linguistic Skills* |
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+```mermaid
+timeline
+    title Career Journey
+    
+    2023 : Flutter Android Developer Intern
+         : Decimal Solutions
+         : Cross-platform app development
+         : UI/UX implementation
+    
+    2024 : Django Developer
+         : Decimal Solutions  
+         : COWSYNC Backend Lead
+         : AI-driven monitoring
+         : Heroku deployment
+```
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🐄 **COWSYNC** - *Livestock Management System*
+[![COWSYNC](https://img.shields.io/badge/COWSYNC-Featured_Project-FF6B6B?style=for-the-badge&logo=project&logoColor=white)](https://github.com/aizyy008)
+
+*Feb 2024 - Jan 2025*
+
+**Tech Stack:** Django | Flutter | IoT | AI Analytics | Geofencing
+
+🔹 Comprehensive farm management with health tracking  
+🔹 Inventory management & IoT sensor integration  
+🔹 Disease detection with AI-powered monitoring  
+🔹 Geofencing for efficient farm operations  
+
+---
+
+### 🦠 **COVID-19 Tracking App** - *Real-time Statistics*
+[![COVID Tracker](https://img.shields.io/badge/COVID_Tracker-Mobile_App-00C4CC?style=for-the-badge&logo=mobile&logoColor=white)](https://github.com/aizyy008)
+
+*April 2022*
+
+**Tech Stack:** Flutter | REST APIs | Data Visualization
+
+🔹 Real-time global COVID-19 statistics  
+🔹 Interactive charts & trend analysis  
+🔹 Intuitive interface for health data access  
+
+</div>
+
+---
+
 ## 🎯 About Me
 
 ```yaml
 name: Aizan Ahmed
-role: Django Developer
-location: Passionate about creating seamless user experiences
+role: Software Engineer | Django Developer | Flutter Expert
+location: Lahore, Punjab, Pakistan
+company: The Semantics
+experience: Full-stack development with scalable applications
+specialization: Clean coding, API optimization, security
+methodology: Agile environments & collaborative development
 currently_learning: Advanced Flutter animations & Django optimization
 collaboration: Open to Flutter/Django projects
 contact: malikaizan198@gmail.com
+linkedin: linkedin.com/in/aizan-ahmed
 ```
 
 <div align="center">
@@ -46,10 +122,11 @@ contact: malikaizan198@gmail.com
 ### ⚙️ Backend & Server
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
@@ -58,14 +135,13 @@ contact: malikaizan198@gmail.com
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### 🤖 AI & Testing
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### 🎨 Design & Hardware
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### 🚀 Methodologies & Practices
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=code&logoColor=white)
+![API Design](https://img.shields.io/badge/API_Design-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
+![IoT Integration](https://img.shields.io/badge/IoT-00C4CC?style=for-the-badge&logo=internetofthings&logoColor=white)
 
 </div>
 
@@ -96,13 +172,15 @@ contact: malikaizan198@gmail.com
 graph TD
     A[🎯 Current Goals] --> B[Flutter Advanced Animations]
     A --> C[Django Performance Optimization]  
-    A --> D[Mobile App Architecture]
-    A --> E[Backend API Design]
+    A --> D[IoT Integration & Monitoring]
+    A --> E[AI-Driven Analytics]
+    A --> F[Scalable Backend Architecture]
     
-    B --> F[🚀 Building Better UX]
-    C --> G[⚡ Faster Response Times]
-    D --> H[📱 Scalable Mobile Solutions]
-    E --> I[🔗 Robust API Systems]
+    B --> G[🚀 Enhanced Mobile UX]
+    C --> H[⚡ Optimized API Performance]
+    D --> I[🌐 Smart Farm Solutions]
+    E --> J[🤖 Intelligent Monitoring]
+    F --> K[🏗️ Enterprise-Grade Systems]
 ```
 
 </div>
@@ -114,15 +192,19 @@ graph TD
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikaizan198@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aizan-ahmed)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/aizan%20ahmed)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bugz__x)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aizyy008)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Aizyy008?tab=repositories)
 
 ### 💡 Open to collaborating on:
-- 📱 **Flutter mobile applications**
-- 🌐 **Django web platforms** 
-- 🔗 **Full-stack projects**
-- 🤖 **AI-powered solutions**
+- 🐄 **Agricultural & IoT solutions**
+- 📱 **Cross-platform mobile applications**
+- 🌐 **Enterprise Django platforms** 
+- 🔗 **Full-stack scalable projects**
+- 🤖 **AI-powered monitoring systems**
+- 💼 **Fintech & business solutions**
 
 </div>
 
