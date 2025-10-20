@@ -58,19 +58,26 @@ timeline
 ## 🚀 Featured Projects
 
 <div align="center">
+
 ### 🌐 **Roam2World** - *Enterprise eSIM Management Platform*
-[![Roam2World](https://img.shields.io/badge/Roam2World-Enterprise_Platform-4C8BF5?style=for-the-badge&logo=network&logoColor=white)](https://github.com/aizyy008)
+
+<div align="center">
+
+[![Roam2World](https://img.shields.io/badge/Roam2World-Featured_Project-4C8BF5?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://github.com/aizyy008)
+[![Enterprise](https://img.shields.io/badge/Enterprise_Platform-1E90FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aizyy008)
+
+</div>
 
 *Aug 2025 - Oct 2025*
 
-**Tech Stack:** Django | React | PostgreSQL | Redis | Celery | Stripe | Firebase
+**Tech Stack:** Django | React | PostgreSQL | Redis | Celery | Stripe | Firebase  
 
 🔹 Multi-tier reseller network with role-based access control  
 🔹 TraveRoam API integration for global eSIM provisioning  
 🔹 Automated payment processing with Stripe webhooks  
 🔹 Real-time analytics & business intelligence dashboard  
 🔹 JWT authentication with comprehensive security features  
-🔹 Background task processing for scalable operations
+🔹 Background task processing for scalable operations  
 
 ---
 
