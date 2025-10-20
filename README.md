@@ -58,6 +58,21 @@ timeline
 ## 🚀 Featured Projects
 
 <div align="center">
+### 🌐 **Roam2World** - *Enterprise eSIM Management Platform*
+[![Roam2World](https://img.shields.io/badge/Roam2World-Enterprise_Platform-4C8BF5?style=for-the-badge&logo=network&logoColor=white)](https://github.com/aizyy008)
+
+*Aug 2025 - Oct 2025*
+
+**Tech Stack:** Django | React | PostgreSQL | Redis | Celery | Stripe | Firebase
+
+🔹 Multi-tier reseller network with role-based access control  
+🔹 TraveRoam API integration for global eSIM provisioning  
+🔹 Automated payment processing with Stripe webhooks  
+🔹 Real-time analytics & business intelligence dashboard  
+🔹 JWT authentication with comprehensive security features  
+🔹 Background task processing for scalable operations
+
+---
 
 ### 🐄 **COWSYNC** - *Livestock Management System*
 [![COWSYNC](https://img.shields.io/badge/COWSYNC-Featured_Project-FF6B6B?style=for-the-badge&logo=project&logoColor=white)](https://github.com/aizyy008)
@@ -123,14 +138,21 @@ linkedin: linkedin.com/in/aizan-ahmed
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### ⚙️ Backend & Server
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -141,12 +163,17 @@ linkedin: linkedin.com/in/aizan-ahmed
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
 
 ### 🚀 Methodologies & Practices
 ![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=code&logoColor=white)
 ![API Design](https://img.shields.io/badge/API_Design-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
 ![IoT Integration](https://img.shields.io/badge/IoT-00C4CC?style=for-the-badge&logo=internetofthings&logoColor=white)
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-8E44AD?style=for-the-badge&logo=archlinux&logoColor=white)
+
 
 </div>
 
