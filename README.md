@@ -237,16 +237,16 @@ graph TD
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aizyy008)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Aizyy008?tab=repositories)
 
+</div>
+
 ### 💡 Open to collaborating on:
 
-<ul style="list-style: none; text-align: center; padding: 0;">
-  <li>🐄 <b>Agricultural & IoT solutions</b></li>
-  <li>📱 <b>Cross-platform mobile applications</b></li>
-  <li>🌐 <b>Enterprise Django platforms</b></li>
-  <li>🔗 <b>Full-stack scalable projects</b></li>
-  <li>🤖 <b>AI-powered monitoring systems</b></li>
-  <li>💼 <b>Fintech & business solutions</b></li>
-</ul>
+- 🐄 **Agricultural & IoT solutions**
+- 📱 **Cross-platform mobile applications**
+- 🌐 **Enterprise Django platforms**
+- 🔗 **Full-stack scalable projects**
+- 🤖 **AI-powered monitoring systems**
+- 💼 **Fintech & business solutions**
 
 </div>
 
